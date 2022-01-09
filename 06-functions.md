@@ -88,8 +88,8 @@ Which of the following are not true about a function?:
 - A function can only perform mathematical operations*
 
 ## Keywords
-- [argument] - "An argument is the value that is sent to the function when it is called." -https://www.w3schools.com/python/python_functions.asp
-- [parameter] - "A parameter is the variable listed inside the parentheses in the function definition." -https://www.w3schools.com/python/python_functions.asp 
+- [argument] - "An argument is the value that is sent to the function when it is called." —[W3Schools](https://www.w3schools.com/python/python_functions.asp)
+- [parameter] - "A parameter is the variable listed inside the parentheses in the function definition." —[W3Schools](https://www.w3schools.com/python/python_functions.asp)
 - [function] A function is block of reusable code that performs a specific task.
 
 
