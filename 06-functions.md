@@ -75,9 +75,9 @@ How could we change our greeting function to say hello to a specific person? Hin
 def greet(person):
   print("Hello " + person + "! How are you today?")
 
-greet("Sarah")
+greet("Sara")
 ```
-The result of calling this in your terminal prints `"Hello Sarah! How are you today?"`
+The result of calling this in your terminal prints `"Hello Sara! How are you today?"`
 
 ## Evaluation
 
